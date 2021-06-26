@@ -2,6 +2,6 @@
 
 # Ch1ll Studios <small>Docs</small>
 
-> The Official API Documentation
+> The Official Ch1ll Studios API Documentation <small>JS</small>
 
 [Get Started](#let39s-get-this-done-fast)

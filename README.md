@@ -1,10 +1,10 @@
 ## Ch1ll Studios <small>API Docs</small>
 
-Welcome to Ch1ll Studios <small>API Docs</small>! Here, you may learn how to use our immersive API docs for your own applications! It's easy as pie. Mmmmmm, I love pie 😋!
+Welcome to Ch1ll Studios <small>Docs</small>! Here, you may learn how to use our immersive API docs for your own applications! It's easy as pie. Mmmmmm, I love pie 😋!
 
 ## Let's Get This Done... Fast!
 
-See the [Quick start](quickstart.md) guide for more details.
+See the [Quick start](quickstart.md) guide for more details. We use node.js, so before looking at our Quick start guild, please familiarize yourself with JavaScript first.
 
 ## Features
 

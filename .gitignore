@@ -1,0 +1,21 @@
+# Packages
+node_modules/
+badmodules
+.npm
+
+# Log files
+logs/
+*.log
+newrelic_agent.log
+
+# Auth
+.env
+
+# Miscellaneous
+.vscode/
+
+# VS Code Extention Files
+.editorconfig
+.eslintrc.json
+.prettierrc.json
+run

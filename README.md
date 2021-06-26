@@ -8,7 +8,8 @@ See the [Quick start](quickstart.md) guide for more details. We use node.js, so 
 
 ## Features
 
-- Our API is free!<sup>1</sup>
+- ⚡ Our API is powerful!
+- 🔼 Our API is free for everyone!<sup>1</sup>
 
 ## Showcase
 

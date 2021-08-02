@@ -1,0 +1,58 @@
+{
+  "name": "ch1ll.js",
+  "version": "1.5.0",
+  "description": "Access Ch1ll Studios API easily using our official API wrapper!",
+  "main": "./src/index.js",
+  "scripts": {
+    "update": "git pull && npm install",
+    "start": "node .",
+    "test": "eslint . --ignore-path .gitignore",
+    "test:fix": "eslint . --ignore-path .gitignore --fix",
+    "docs": "docgen --source src --custom docs/index.yml --output docs/docs.json",
+    "docs:test": "docgen --source --custom docs/index.yml",
+    "changelog": "conventional-changelog -p express -i RELEASE_CHANGELOG.md -s",
+    "prettier": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingCh1ll/Ch1llDocs.git"
+  },
+  "keywords": [
+    "ch1ll",
+    "studios",
+    "api",
+    "wrapper",
+    "official",
+    "meme",
+    "meme api"
+  ],
+  "author": "KingCh1ll",
+  "license": "MPL-2.0",
+  "engines": {
+    "node": ">=14.x",
+    "npm": ">=7.x"
+  },
+  "bugs": {
+    "url": "https://github.com/KingCh1ll/Ch1llDocs/issues"
+  },
+  "homepage": "https://github.com/KingCh1ll/Ch1llDocs#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "ws": "^8.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-angular": "^13.1.0",
+    "@discordjs/docgen": "^0.10.0",
+    "@types/node": "^16.4.10",
+    "conventional-changelog-cli": "^2.1.1",
+    "cross-env": "^7.0.3",
+    "ejs-lint": "^1.2.1",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-prettier": "^3.4.0",
+    "npm": "^7.20.3",
+    "prettier": "2.3.2"
+  }
+}

@@ -7,11 +7,15 @@ badmodules
 logs/
 *.log
 newrelic_agent.log
-json.sqlite
-run
 
 # Auth
 .env
 
 # Miscellaneous
 .vscode/
+
+# VS Code Extention Files
+.editorconfig
+.eslintrc.json
+.prettierrc.json
+run

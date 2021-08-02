@@ -37,8 +37,7 @@
   },
   "homepage": "https://github.com/KingCh1ll/Ch1llDocs#readme",
   "dependencies": {
-    "node-fetch": "^2.6.1",
-    "ws": "^8.0.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",

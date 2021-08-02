@@ -11,4 +11,3 @@ module.exports = {
   // Main Classes //
   Client: require('./client/Client'),
 };
-module.exports.init = Init;

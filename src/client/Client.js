@@ -1,6 +1,3 @@
-const { util } = require('prettier');
-const Base = require('./Base');
-
 /**
  * The main client for interacting with Ch1ll API.
 */
@@ -13,7 +10,7 @@ class Client {
          * The options for the Ch1ll API client.
          * @type {ClientOptions}
          */
-        this.options = Util;
+        this.options = options;
 
         /**
          * The client's API Token for Ch1ll API.
